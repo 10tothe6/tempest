@@ -18,6 +18,9 @@ Just go to the 'Releases' page, download the .zip file for a given version, extr
 All credit for music, code, art, animation goes to Maximilian McDiarmid. Sound effects sourced from Pixabay and Freesound.
 
 ## Screenshots:
+ 
+Beta versions:
+ 
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/ss7.png?)
 ***
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/ss6.png?)
@@ -25,7 +28,10 @@ All credit for music, code, art, animation goes to Maximilian McDiarmid. Sound e
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/ss5.png?)
 ***
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/ss4.png?)
-***
+
+Alpha versions:
+ 
+
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/Cover.png?)
 ***
 ![alt text](https://github.com/10tothe6/tempest/blob/master/img/ss1.png?)
